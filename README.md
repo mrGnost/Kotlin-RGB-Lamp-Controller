@@ -22,4 +22,10 @@ Pre-requisites
 Getting started
 ---------------
 
-This app uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+1. Clone this repository onto your computer: `git clone https://github.com/mrGnost/Kotlin-RGB-Lamp-Controller.git`
+1. Open Android Studio
+1. Either press "Open an Existing Android Studio Project" or click File > Open...
+1. Navigate to RgbLamp. Press Choose, or OK
+1. Wait for the Gradle execution to complete. You should see "app" appear as one of the build configurations
+1. Run the application (Run > Run 'App'), choose either a connected device or a simulator to run on
+1. Wait until the application loads.
