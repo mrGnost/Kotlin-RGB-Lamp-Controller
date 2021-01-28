@@ -5,7 +5,7 @@ This application is designed to control an RGB lamp via bluetooth.
 Introduction
 ------------
 
-This application is based on several tutorials from web and on the java app I developed several years ago as a controller for my RGB lamp.
+This application is based on several tutorials from web and the java app I developed several years ago for my RGB lamp.
 It provides convenient functionality for picking colors and sending their codes to the lamp via bluetooth.
 
 Screenshots
