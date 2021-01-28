@@ -16,11 +16,10 @@ Screenshots
 Pre-requisites
 --------------
 
-- Android SDK v27
-- Android Build Tools v27.0.3
-- Android Support Repository
+- Android Studio 4.0 or above.
+- Android SDK with Android platform version 27 (Android 8.1). We use it to compile the app.
 
 Getting started
 ---------------
 
-This app uses the Gradle build system. To build this project, use the "gradle build" command or use "Import Project" in Android Studio.
+This app uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
