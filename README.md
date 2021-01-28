@@ -8,6 +8,11 @@ Introduction
 This application is based on several tutorials from web and on the java app I developed several years ago as a controller for my RGB lamp.
 It provides convenient functionality for picking colors and sending their codes to the lamp via bluetooth.
 
+Screenshots
+-------------
+
+<img src="screenshot.jpg" height="400" alt="Screenshot"/>
+
 Pre-requisites
 --------------
 
